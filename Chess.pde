@@ -1,6 +1,5 @@
 //Past me to Future me, Have fun trying to make sense of this
-//I commend you if you can get a single word
-//I just wrote this and I'm reeling from how messed up it is
+
 Board board;
 Piece kingB, queenB, knightB1, knightB2, bishopBb, bishopBw, rookW1, rookB2;//Main Black pieces
 Piece kingW, queenW, knightW1, knightW2, bishopWb, bishopWw, rookB1, rookW2;//Main White pieces
